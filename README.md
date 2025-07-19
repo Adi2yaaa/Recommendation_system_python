@@ -114,5 +114,6 @@ Model training & evaluation
 Recommendation generation
 
 # Output: Recommendation results & evaluation metrics
+<img width="637" height="170" alt="image" src="https://github.com/user-attachments/assets/c1ac438f-3f8c-4c1a-8a96-7ff3ea1c1177" />
 
 
